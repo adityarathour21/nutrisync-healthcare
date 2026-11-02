@@ -1,0 +1,6 @@
+{
+  "name": "NutriSync",
+  "description": "AI-Powered Personalized Nutrition & Smart Meal Delivery Platform connecting patients, certified dietitians, clinical kitchens, and delivery partners.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
